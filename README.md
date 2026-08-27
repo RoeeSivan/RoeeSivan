@@ -104,6 +104,6 @@ full-stack product work, or applied ML.
 
 <div align="center">
 
-![Roee's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoeeSivan&show_icons=true&hide=stars,issues&hide_rank=true&hide_title=true&theme=github_dark&hide_border=true&bg_color=00000000)
+[![Roee Sivan's GitHub stats: contributions, commits, most-used languages and a contribution graph](https://roeesivan.com/github-stats.svg)](https://roeesivan.com/projects#github-activity)
 
 </div>
