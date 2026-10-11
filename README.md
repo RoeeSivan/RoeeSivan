@@ -17,7 +17,7 @@ Everything below is live, open source, or both.
 ## About
 
 I build things that ship. Over the past year: a Unity 6 open-world game, a course-review
-platform used by 160+ students at my university, two browser games on Three.js and canvas,
+platform used by 190+ students at my university, two browser games on Three.js and canvas,
 and a computer-vision pipeline that analyses table tennis matches frame by frame.
 
 Three years in the IDF on the Patriot missile system, finishing as a commander. Since then,
