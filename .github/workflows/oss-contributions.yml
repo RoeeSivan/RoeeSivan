@@ -1,0 +1,53 @@
+name: Open source contributions
+
+# Rewrites the README's open source section from GitHub's search API. Nothing fires
+# in this repository when another repository merges a pull request, so this polls.
+# On a pull request it only checks that the script runs and the README is current.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/oss-contributions.mjs
+      - .github/workflows/oss-contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oss-contributions
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Regenerate the section
+        run: node scripts/oss-contributions.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Check the README is current
+        if: github.event_name == 'pull_request'
+        run: git diff --exit-code -- README.md
+
+      - name: Commit if it changed
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "docs: refresh open source contributions" -- README.md
+          git push
