@@ -134,6 +134,6 @@ Merged contributions to projects maintained by other teams.
 
 <div align="center">
 
-[![Roee Sivan's GitHub stats: contributions, commits, most-used languages and a contribution graph](https://roeesivan.com/github-stats.svg)](https://roeesivan.com/projects#github-activity)
+[![Roee Sivan's GitHub stats: commits, pull requests, issues, stars, rank, most-used languages and an activity graph](https://roeesivan.com/github-stats.svg)](https://roeesivan.com/projects#github-activity)
 
 </div>
