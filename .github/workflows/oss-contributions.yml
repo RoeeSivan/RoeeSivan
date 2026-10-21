@@ -1,11 +1,12 @@
 name: Open source contributions
 
 # Rewrites the README's open source section from GitHub's search API. Nothing fires
-# in this repository when another repository merges a pull request, so this polls.
+# in this repository when another repository merges a pull request, so this polls,
+# once a day; "Run workflow" in the Actions tab refreshes it on demand.
 # On a pull request it only checks that the script runs and the README is current.
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 5 * * *"
   workflow_dispatch:
   pull_request:
     paths:
