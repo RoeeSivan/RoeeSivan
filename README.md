@@ -121,7 +121,7 @@ Merged contributions to projects maintained by other teams.
 - [#2775](https://github.com/suitenumerique/docs/pull/2775) Replace outdated AGPL mentions of BlockNote XL packages · Oct 2026
 - [#2771](https://github.com/suitenumerique/docs/pull/2771) Keep login and logout out of the service worker cache · Oct 2026
 
-**[suitenumerique/meet](https://github.com/suitenumerique/meet)** · Video conferencing on LiveKit, part of France's La Suite numérique · ★ 2.4k
+**[suitenumerique/meet](https://github.com/suitenumerique/meet)** · Video conferencing on LiveKit, part of France's La Suite numérique · ★ 2.5k
 - [#1816](https://github.com/suitenumerique/meet/pull/1816) Announce the microphone turning off on shortcut · Oct 2026
 - [#1809](https://github.com/suitenumerique/meet/pull/1809) Allow static feature flags without an analytics backend · Oct 2026
 - [#1806](https://github.com/suitenumerique/meet/pull/1806) Silence gitlint regex-style deprecation warning · Oct 2026
