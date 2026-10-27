@@ -118,6 +118,8 @@ Merged contributions to projects maintained by other teams.
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 16.9k
+- [#2885](https://github.com/suitenumerique/docs/pull/2885) Add a dedicated document abilities endpoint · Oct 2026
+- [#2909](https://github.com/suitenumerique/docs/pull/2909) Remove easy-thumbnails and Pillow · Oct 2026
 - [#2775](https://github.com/suitenumerique/docs/pull/2775) Replace outdated AGPL mentions of BlockNote XL packages · Oct 2026
 - [#2771](https://github.com/suitenumerique/docs/pull/2771) Keep login and logout out of the service worker cache · Oct 2026
 
@@ -127,7 +129,7 @@ Merged contributions to projects maintained by other teams.
 - [#1806](https://github.com/suitenumerique/meet/pull/1806) Silence gitlint regex-style deprecation warning · Oct 2026
 - [#1804](https://github.com/suitenumerique/meet/pull/1804) Keep the admin panel in place when changing a setting · Oct 2026
 
-<sub>7 merged pull requests across 3 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>9 merged pull requests across 3 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
