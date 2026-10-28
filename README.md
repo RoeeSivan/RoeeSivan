@@ -117,7 +117,7 @@ Merged contributions to projects maintained by other teams.
 **[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.6k
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
-**[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 16.9k
+**[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
 - [#2885](https://github.com/suitenumerique/docs/pull/2885) Add a dedicated document abilities endpoint · Oct 2026
 - [#2909](https://github.com/suitenumerique/docs/pull/2909) Remove easy-thumbnails and Pillow · Oct 2026
 - [#2775](https://github.com/suitenumerique/docs/pull/2775) Replace outdated AGPL mentions of BlockNote XL packages · Oct 2026
