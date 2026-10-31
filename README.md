@@ -118,6 +118,7 @@ Merged contributions to projects maintained by other teams.
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
+- [#2922](https://github.com/suitenumerique/docs/pull/2922) Read the abilities from the dedicated backend endpoint · Oct 2026
 - [#2885](https://github.com/suitenumerique/docs/pull/2885) Add a dedicated document abilities endpoint · Oct 2026
 - [#2909](https://github.com/suitenumerique/docs/pull/2909) Remove easy-thumbnails and Pillow · Oct 2026
 - [#2775](https://github.com/suitenumerique/docs/pull/2775) Replace outdated AGPL mentions of BlockNote XL packages · Oct 2026
@@ -132,7 +133,7 @@ Merged contributions to projects maintained by other teams.
 **[hasadna/open-bus-map-search](https://github.com/hasadna/open-bus-map-search)** · The purpose of the site is to improve the quality of public transportation in Israel by providing reliable information to journalists, citizens, transportation companies, and government officials in Israel. · ★ 100
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>10 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>11 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
