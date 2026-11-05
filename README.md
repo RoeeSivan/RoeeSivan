@@ -127,6 +127,7 @@ Merged contributions to projects maintained by other teams.
 - [#2771](https://github.com/suitenumerique/docs/pull/2771) Keep login and logout out of the service worker cache · Oct 2026
 
 **[suitenumerique/meet](https://github.com/suitenumerique/meet)** · Video conferencing on LiveKit, part of France's La Suite numérique · ★ 2.5k
+- [#1916](https://github.com/suitenumerique/meet/pull/1916) Close the invite dialog with the Escape key · Nov 2026
 - [#1816](https://github.com/suitenumerique/meet/pull/1816) Announce the microphone turning off on shortcut · Oct 2026
 - [#1809](https://github.com/suitenumerique/meet/pull/1809) Allow static feature flags without an analytics backend · Oct 2026
 - [#1806](https://github.com/suitenumerique/meet/pull/1806) Silence gitlint regex-style deprecation warning · Oct 2026
@@ -135,7 +136,7 @@ Merged contributions to projects maintained by other teams.
 **[hasadna/open-bus-map-search](https://github.com/hasadna/open-bus-map-search)** · The purpose of the site is to improve the quality of public transportation in Israel by providing reliable information to journalists, citizens, transportation companies, and government officials in Israel. · ★ 101
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>13 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>14 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
