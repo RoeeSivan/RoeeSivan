@@ -114,7 +114,7 @@ full-stack product work, or applied ML.
 
 Merged contributions to projects maintained by other teams.
 
-**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.6k
+**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.7k
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
