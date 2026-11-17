@@ -114,10 +114,11 @@ full-stack product work, or applied ML.
 
 Merged contributions to projects maintained by other teams.
 
-**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.7k
+**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.8k
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
+- [#2898](https://github.com/suitenumerique/docs/pull/2898) Keep comments on inline nodes after a reload · Nov 2026
 - [#2794](https://github.com/suitenumerique/docs/pull/2794) Keep the case of titles and names in email subjects · Nov 2026
 - [#2951](https://github.com/suitenumerique/docs/pull/2951) Remove the unused scope of the document throttles · Nov 2026
 - [#2922](https://github.com/suitenumerique/docs/pull/2922) Read the abilities from the dedicated backend endpoint · Oct 2026
@@ -136,7 +137,7 @@ Merged contributions to projects maintained by other teams.
 **[hasadna/open-bus-map-search](https://github.com/hasadna/open-bus-map-search)** · The purpose of the site is to improve the quality of public transportation in Israel by providing reliable information to journalists, citizens, transportation companies, and government officials in Israel. · ★ 102
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>14 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>15 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
