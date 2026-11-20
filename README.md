@@ -135,9 +135,10 @@ Merged contributions to projects maintained by other teams.
 - [#1804](https://github.com/suitenumerique/meet/pull/1804) Keep the admin panel in place when changing a setting · Oct 2026
 
 **[hasadna/open-bus-map-search](https://github.com/hasadna/open-bus-map-search)** · The purpose of the site is to improve the quality of public transportation in Israel by providing reliable information to journalists, citizens, transportation companies, and government officials in Israel. · ★ 102
+- [#1938](https://github.com/hasadna/open-bus-map-search/pull/1938) Show a loading text instead of "No options" while selector options load · Nov 2026
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>15 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>16 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
