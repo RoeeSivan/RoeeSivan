@@ -118,6 +118,7 @@ Merged contributions to projects maintained by other teams.
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
+- [#2943](https://github.com/suitenumerique/docs/pull/2943) Name users without an email instead of returning a 500 · Nov 2026
 - [#2898](https://github.com/suitenumerique/docs/pull/2898) Keep comments on inline nodes after a reload · Nov 2026
 - [#2794](https://github.com/suitenumerique/docs/pull/2794) Keep the case of titles and names in email subjects · Nov 2026
 - [#2951](https://github.com/suitenumerique/docs/pull/2951) Remove the unused scope of the document throttles · Nov 2026
@@ -139,7 +140,7 @@ Merged contributions to projects maintained by other teams.
 - [#1938](https://github.com/hasadna/open-bus-map-search/pull/1938) Show a loading text instead of "No options" while selector options load · Nov 2026
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>17 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>18 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
