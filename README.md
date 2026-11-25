@@ -114,10 +114,11 @@ full-stack product work, or applied ML.
 
 Merged contributions to projects maintained by other teams.
 
-**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.7k
+**[wagtail/wagtail](https://github.com/wagtail/wagtail)** · Django CMS · ★ 20.8k
 - [#14744](https://github.com/wagtail/wagtail/pull/14744) Allow scoping Stimulus queryController to a root element · Oct 2026
 
 **[suitenumerique/docs](https://github.com/suitenumerique/docs)** · Real-time collaborative editor, part of France's La Suite numérique · ★ 17k
+- [#3053](https://github.com/suitenumerique/docs/pull/3053) Post the preview comment once a conflicting PR is fixed · Nov 2026
 - [#3005](https://github.com/suitenumerique/docs/pull/3005) Throttle anonymous users per browser, not per IP address · Nov 2026
 - [#3055](https://github.com/suitenumerique/docs/pull/3055) Pick a mention with a click in the comments sidebar · Nov 2026
 - [#2943](https://github.com/suitenumerique/docs/pull/2943) Name users without an email instead of returning a 500 · Nov 2026
@@ -143,7 +144,7 @@ Merged contributions to projects maintained by other teams.
 - [#1938](https://github.com/hasadna/open-bus-map-search/pull/1938) Show a loading text instead of "No options" while selector options load · Nov 2026
 - [#1921](https://github.com/hasadna/open-bus-map-search/pull/1921) Keep typed digits in the date field when the date is out of range · Oct 2026
 
-<sub>21 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
+<sub>22 merged pull requests across 4 projects · [All of them on GitHub →](https://github.com/search?q=is%3Apr%20is%3Amerged%20is%3Apublic%20author%3ARoeeSivan%20-user%3ARoeeSivan&type=pullrequests)</sub>
 <!-- OSS:END -->
 
 ---
